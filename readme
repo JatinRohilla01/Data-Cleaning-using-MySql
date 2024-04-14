@@ -1,3 +1,8 @@
+To display the README file with the same formatting on GitHub, you can use Markdown syntax. Markdown is a lightweight markup language with plain-text formatting syntax that can be converted to HTML. GitHub supports Markdown, so you can create nicely formatted documents, including README files, using Markdown syntax.
+
+Here's how you can convert your README content into Markdown:
+
+```markdown
 # Laptop Price Dataset Cleaning Project
 
 This repository contains the cleaned version of the Uncleaned Laptop Price dataset, which was obtained from an online e-commerce website. The dataset includes information about various laptop models, such as their brand, screen size, processor, memory, storage capacity, operating system, and price.
@@ -163,3 +168,4 @@ This cleaning process was performed by Jatin Rohilla.
 Feel free to contribute to this project by forking and submitting pull requests. If you have any questions or suggestions, please feel free to open an issue.
 
 Happy analyzing! 🚀
+```
