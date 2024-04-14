@@ -2,7 +2,7 @@
 ```markdown
 # Laptop Price Dataset Cleaning Project
 
-This repository contains the cleaned version of the Uncleaned Laptop Price dataset, which was obtained from an online e-commerce website. The dataset includes information about various laptop models, such as their brand, screen size, processor, memory, storage capacity, operating system, and price.
+This repository contains the process for cleaning the Uncleaned Laptop Price dataset, which was obtained from an online e-commerce website. The dataset includes information about various laptop models, such as their brand, screen size, processor, memory, storage capacity, operating system, and price.
 
 ## Overview
 
